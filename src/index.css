@@ -1,0 +1,11 @@
+.delayed-row {
+    background-color: red !important;
+    color: #fff;
+    font-weight: 700;
+}
+.ant-table-wrapper td.ant-table-column-sort {
+    background-color: transparent;
+}
+.ant-table-cell-row-hover {
+    background-color: inherit !important;
+}
